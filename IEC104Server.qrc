@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/GB.png</file>
+        <file>icon/NO.png</file>
+        <file>language/iec104server_nb.qm</file>
+    </qresource>
+</RCC>
